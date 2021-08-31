@@ -4,12 +4,12 @@ body{
 
 @font-face{
     font-family:Bolded;
-    src: url(../Barlow_Semi_Condensed/BarlowSemiCondensed-Bold.ttf);
+    src: url(Barlow_Semi_Condensed/BarlowSemiCondensed-Bold.ttf);
 }
 
 @font-face{
     font-family:Regular;
-    src: url(../Barlow_Semi_Condensed/BarlowSemiCondensed-Regular.ttf);
+    src: url(Barlow_Semi_Condensed/BarlowSemiCondensed-Regular.ttf);
 }
 
 .quotation{
